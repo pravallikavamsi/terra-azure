@@ -1,0 +1,14 @@
+0000000000000000000000000000000000000000 22a9d3f75e83515ee858b34cb996b63d46be9796 pravallika <vallivamsi2018@gmail.com> 1783935028 +0100	clone: from https://github.com/pravallikavamsi/terra-azure.git
+22a9d3f75e83515ee858b34cb996b63d46be9796 f56185a2e1e6bc62f55a12daae4268e4640eb93b pravallika <vallivamsi2018@gmail.com> 1783937983 +0100	commit: terraform files
+f56185a2e1e6bc62f55a12daae4268e4640eb93b 1e50ed41ccc042f681d1b74a9f5d1c970c8d02ea pravallika <vallivamsi2018@gmail.com> 1783938269 +0100	commit: dev and prod
+1e50ed41ccc042f681d1b74a9f5d1c970c8d02ea 4fa9418fe4fa025c4617e19260e703a364d0b490 pravallika <vallivamsi2018@gmail.com> 1784012613 +0100	commit: terraform files and modules
+4fa9418fe4fa025c4617e19260e703a364d0b490 ecf2517d20c7ffe4a65cfdd9646b7941d12b33f8 pravallika <vallivamsi2018@gmail.com> 1784014469 +0100	commit: backend files are added
+ecf2517d20c7ffe4a65cfdd9646b7941d12b33f8 ef375409cef065690fed489a09de1dff0b33cbdc pravallika <vallivamsi2018@gmail.com> 1784016430 +0100	commit: change were made
+ef375409cef065690fed489a09de1dff0b33cbdc 93d8604d5c602a23eec98d167019adf3344fe74a pravallika <vallivamsi2018@gmail.com> 1784016835 +0100	commit: Ignore Terraform local artifacts
+0000000000000000000000000000000000000000 5d0e9430497b17167da6e5c5c5b513d191e98d78 pravallika <vallivamsi2018@gmail.com> 1784017076 +0100	commit (initial): Rebuild repository history without Terraform provider binaries
+5d0e9430497b17167da6e5c5c5b513d191e98d78 0000000000000000000000000000000000000000 pravallika <vallivamsi2018@gmail.com> 1784017076 +0100	Branch: renamed refs/heads/clean-history to refs/heads/master
+0000000000000000000000000000000000000000 5d0e9430497b17167da6e5c5c5b513d191e98d78 pravallika <vallivamsi2018@gmail.com> 1784017076 +0100	Branch: renamed refs/heads/clean-history to refs/heads/master
+5d0e9430497b17167da6e5c5c5b513d191e98d78 63906c353e2bc6df4b880ddb289566ecb76c2055 pravallika <vallivamsi2018@gmail.com> 1784026663 +0100	commit: updated
+63906c353e2bc6df4b880ddb289566ecb76c2055 63906c353e2bc6df4b880ddb289566ecb76c2055 pravallika <vallivamsi2018@gmail.com> 1784027727 +0100	rebase (start): checkout HEAD~1
+63906c353e2bc6df4b880ddb289566ecb76c2055 63906c353e2bc6df4b880ddb289566ecb76c2055 pravallika <vallivamsi2018@gmail.com> 1784027727 +0100	rebase (finish): returning to refs/heads/master
+0000000000000000000000000000000000000000 63906c353e2bc6df4b880ddb289566ecb76c2055 pravallika <vallivamsi2018@gmail.com> 1784028605 +0100
