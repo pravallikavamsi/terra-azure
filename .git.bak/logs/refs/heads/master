@@ -1,3 +1,0 @@
-0000000000000000000000000000000000000000 5d0e9430497b17167da6e5c5c5b513d191e98d78 pravallika <vallivamsi2018@gmail.com> 1784017076 +0100	commit (initial): Rebuild repository history without Terraform provider binaries
-5d0e9430497b17167da6e5c5c5b513d191e98d78 5d0e9430497b17167da6e5c5c5b513d191e98d78 pravallika <vallivamsi2018@gmail.com> 1784017076 +0100	Branch: renamed refs/heads/clean-history to refs/heads/master
-5d0e9430497b17167da6e5c5c5b513d191e98d78 63906c353e2bc6df4b880ddb289566ecb76c2055 pravallika <vallivamsi2018@gmail.com> 1784026663 +0100	commit: updated
